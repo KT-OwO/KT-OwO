@@ -2,6 +2,7 @@
   <a href="https://github.com/KogaTaisei">
     <img height="20" src="https://img.shields.io/github/followers/KogaTaisei?label=follow&logo=github&style=flat" />
   </a>
+  [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 </p>
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 
