@@ -2,9 +2,9 @@
   <a href="https://github.com/KogaTaisei">
     <img height="20" src="https://img.shields.io/github/followers/KogaTaisei?label=follow&logo=github&style=flat" />
   </a>
-  <br>
-  [![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 </p>
+
+[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KogaTaisei&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
