@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
