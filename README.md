@@ -13,3 +13,5 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KT-OwO&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KT-OwO&theme=onedark&show_icons=ture" />
 </p>
+
+![HackerRank Stats](https://hackerrank-stats-card.vercel.app/api?username=taiseikoga0526)
