@@ -6,11 +6,12 @@
   
   [![Contributions](https://badgen.org/img/qiita/KT-OwO/contributions?style=plastic)](https://qiita.com/KT-OwO)
   [![](https://visitcount.itsvg.in/api?id=KT-OwO&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![Articles](https://badgen.org/img/qiita/KT-OwO/articles?style=plastic)](https://qiita.com/KT-OwO)
 
 
 
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
-![HackerRank Stats](https://hackerrank-stats-card.vercel.app/api?username=taiseikoga0526)
+
 
 
 # 💻 Tech Stack:
@@ -36,16 +37,14 @@
 # 📊 GitHub Stats:
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KT-OwO&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KT-OwO&theme=onedark&show_icons=ture" />
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=KT-OwO&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KT-OwO&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KT-OwO&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=KT-OwO&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-OwO&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=KT-OwO5&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KT-OwO)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ktowo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ktowo" /></a></p><br><br>
+
+
+### Support:
+<a href="https://www.buymeacoffee.com/ktowo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ktowo" />
