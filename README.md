@@ -23,20 +23,18 @@
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align=center>
-  <img align=left width=48% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KT-OwO&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/>
-  <img width=48% src="https://github-readme-stats-salesp07.vercel.app/api?username=KT-OwO&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-</div>
-<div align=center>
-  <img align=left width=48% src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KT-OwO&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=KT-OwO&repo=MatchmakingSystem" alt="Extra Pins">
-  <br>
-</div>
 
-<br>
-<br>
-<br>
+
+<table>
+  <tr>
+    <td><img width=100% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KT-OwO&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/></td>
+    <td><img width=100% src="https://github-readme-stats-salesp07.vercel.app/api?username=KT-OwO&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" /></td>
+  </tr>
+  <tr>
+    <td><img width=100% src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KT-OwO&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></td>
+    <td><img width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=KT-OwO&repo=MatchmakingSystem" alt="Extra Pins"></td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack:
 <div align = "center">
