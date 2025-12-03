@@ -1,4 +1,4 @@
-# 💫 Hello visitors.
+## 💫 Hello visitors.
 
   <a href="https://github.com/KT-OwO">
     <img height="20" src="https://img.shields.io/github/followers/KT-OwO?label=follow&logo=github&style=flat" />
@@ -19,7 +19,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api?username=KT-OwO&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
@@ -29,7 +29,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=KT-OwO)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align = "center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
