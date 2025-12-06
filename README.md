@@ -20,9 +20,13 @@
 
 
 ## 📊 GitHub Stats:
+
+<div align="center">
+
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
+</div>
 
 
 <table>
