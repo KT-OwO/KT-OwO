@@ -1,4 +1,4 @@
-## 💫 Hello visitors.
+## Hello visitors.
 
   <a href="https://github.com/KT-OwO">
     <img height="20" src="https://img.shields.io/github/followers/KT-OwO?label=follow&logo=github&style=flat" />
@@ -21,10 +21,10 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div align = "center">
 
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -51,5 +51,5 @@
 
 </div>
 
-## Support:
+## ❤️Support:
 <a href="https://www.buymeacoffee.com/ktowo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ktowo" />
