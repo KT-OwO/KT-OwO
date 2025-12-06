@@ -1,7 +1,9 @@
 ## Hello visitors.
 
   <a href="https://github.com/KT-OwO">
-    <img height="20" src="https://img.shields.io/github/followers/KT-OwO?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/KT-OwO?label=followers&logo=github&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=KT-OwO" />
+
   </a>
   
   [![Contributions](https://badgen.org/img/qiita/KT-OwO/contributions?style=plastic)](https://qiita.com/KT-OwO)
@@ -11,7 +13,7 @@
 
 
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=for-the-badge&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
-
+![tryhackme stats](https://raw.githubusercontent.com/KT-OwO/KT-OwO/master/assets/thm_propic.png)
 
 
 
