@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
+
+      - name: Checkout this repo
+        uses: actions/checkout@v4
         
       - uses: kawamataryo/lapras-card-readme@main
         with:
