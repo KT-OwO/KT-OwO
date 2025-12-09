@@ -13,15 +13,17 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "KT9ANIF"
-          ICON_FIRST: "#03102f"
-          ICON_SECOND: "#1688bf"
-          BACKGROUND_FIRST: "#020e27"
-          BACKGROUND_SECOND: "#0e5593"
-          LANG: "en"
-          UPDATE_TIME: "true"
-          README_FILE: "README.md"
-          IS_CENTER: "true"
-          ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
+          # ICON_FIRST: "#03102f"
+          # ICON_SECOND: "#1688bf"
+          # BACKGROUND_FIRST: "#020e27"
+          # BACKGROUND_SECOND: "#0e5593"
+          # LANG: "en"
+          # UPDATE_TIME: "true"
+          # README_FILE: "README.md"
+          # IS_CENTER: "true"
+          # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
+          
+          
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
