@@ -26,7 +26,9 @@
 <div align = "center">
 
 <!-- &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=KT-OwO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://trophygh.kolioaris.xyz/?username=KT-OwO&theme=onedark" />
+</a>
   
 </div>
 
