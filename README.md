@@ -35,8 +35,9 @@
 <table>
   <tr>
     <td><img width=100% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KT-OwO&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/></td>
-    <td><img width=100% src="https://github-readme-stats-salesp07.vercel.app/api?username=KT-OwO&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" /></td>
     <td><img width=100% src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KT-OwO&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></td>
+    <td><img width=100% src="https://github-readme-stats-salesp07.vercel.app/api?username=KT-OwO&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" /></td>
+    
   </tr>
 </table>
 
